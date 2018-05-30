@@ -1,0 +1,2 @@
+recursive-include bare_body *.*
+recursive-exclude bare_body .*.egg
